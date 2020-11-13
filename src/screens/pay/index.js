@@ -3,9 +3,9 @@ import { Text } from 'react-native';
 
 // import { Container } from './styles';
 
-const Pay = () => {
-  return <Text> Pay</Text>;
+const PayScreen = () => {
+  return <Text> PayScreen</Text>;
 }
 
-export default Pay;
+export default PayScreen;
 

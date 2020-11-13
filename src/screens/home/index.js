@@ -3,8 +3,8 @@ import { Text } from 'react-native';
 
 // import { Container } from './styles';
 
-const Home = () => {
-  return <Text> Home</Text>;
+const HomeScreen = () => {
+  return <Text> HomeScreen</Text>;
 }
 
-export default Home;
+export default HomeScreen;
